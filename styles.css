@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Special+Gothic+Expanded+One&display=swap');
+
+* {
+    
+    font-family:  Raleway;
+    color: #9e9e9e
+
+}
+
+.title {
+    display: inline-block;
+    font-size: 8rem;
+    margin: 0rem;
+    padding-top: 2rem;
+    border-bottom: 0.2rem solid orange;
+    
+}
+
+.vse {
+
+
+}
+
+.nadpis-popisku {
+    text-align: center;
+    padding-top: 0rem;
+    font-size: 3.5rem;
+    border-bottom: 0.2rem solid rgb(87, 87, 87);
+    margin-left: 0rem;
+ 
+}
+
+.popis {
+    margin: 5rem 30rem;
+    font-size: 2.5rem;
+        background-color: rgba(0, 0, 0, 0.65);
+    background-image: url(wlhlabtv_4K_Albedo.jpg);
+    background-blend-mode: multiply;
+    background-size: contain;
+    border-radius: 3rem;
+   padding: 0.5rem;
+  border-bottom: 0.5rem solid orange;
+  border-top: 0.5rem solid orange;
+
+}
+
+.nohy {
+    float: left;
+    width: 15rem;
+    margin-left: 20;
+    margin: 1rem;
+    border-radius: 5%;
+ 
+
+}
+
+.tlacitko {
+    background-color:  orange;
+    border: none;
+    width: 20rem;
+    height: 10rem;
+    border-radius: 1rem;
+    font-size: 2rem;
+    color: #000000;
+}
+
+.tlacitko:hover {
+   background-color: rgb(255, 210, 150);
+}
+
+.fotodokumentace {
+    text-align: center;
+    padding-top: 0rem;
+    font-size: 3.5rem;
+    border-bottom: 0.2rem solid rgb(87, 87, 87);
+    margin-left: 0rem;
+}
+
+.foto {
+         background-color: rgba(0, 0, 0, 0.65);
+    background-image: url(wlhlabtv_4K_Albedo.jpg);
+    background-blend-mode: multiply;
+     margin: 5rem 30rem;
+     border-radius: 3rem;
+     border-bottom: 0.5rem solid orange;
+  border-top: 0.5rem solid orange;
+}
+
+.ass {
+
+}
+
+.a {
+    width: 30rem;
+    
+}
+
+.text2 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.fotoall {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+.text1 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.m {
+    width: 30rem;
+} 
+
+.foto img{
+    margin: 30px;
+}
+
+
+
+.odkaz {
+     background-color: rgba(0, 0, 0, 0.65);
+    background-image: url(wlhlabtv_4K_Albedo.jpg);
+    background-blend-mode: multiply;
+     margin: 5rem 30rem;
+     border-radius: 3rem;
+     border-bottom: 0.5rem solid orange;
+  border-top: 0.5rem solid orange;
+}
+
+.odkazna {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 3.5rem;
+    border-bottom: 0.2rem solid rgb(87, 87, 87);
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.fbimg {
+  width: 10rem;
+}
+
+.igimg {
+    width: 10rem;
+}
+
+.kokot {
+    margin-top: 3rem;
+}
+
+
+
+
+html {
+    background-color: rgba(0, 0, 0, 0.8 );
+    background-image: url(vdkgdbpv_4K_Albedo.jpg);
+    background-size: contain;
+    background-blend-mode: multiply;
+    text-align: center;
+    
+}
+
+
